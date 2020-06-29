@@ -10,7 +10,7 @@ The example uploaded here uses VGG16.
 
 
 Grad-CAM paper: 
-Selvaraju, Ramprasaath R., Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, and Dhruv Batra. 2019. “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.” International Journal of Computer Vision, October. https://doi.org/10.1007/s11263-019-01228-7.
+Selvaraju, Ramprasaath R., Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, and Dhruv Batra. 2019. *“Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.”* International Journal of Computer Vision, October. https://doi.org/10.1007/s11263-019-01228-7.
 
 
 The solution in this notebook is based on the implementations by:
