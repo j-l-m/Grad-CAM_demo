@@ -14,8 +14,8 @@ Selvaraju, Ramprasaath R., Michael Cogswell, Abhishek Das, Ramakrishna Vedantam,
 
 
 The solution in this notebook is based on the implementations by:
-F. Chollet(2017) in his *Deep Learning with Python* book
-Rapahel Meudec's, writer of the tf-explain library, solution which is updated for TensorFlow 2.0: [source](https://stackoverflow.com/questions/58322147/how-to-generate-cnn-heatmaps-using-built-in-keras-in-tf2-0-tf-keras)
+* F. Chollet(2017) in his *Deep Learning with Python* book
+* Rapahel Meudec's, writer of the tf-explain library, solution which is updated for TensorFlow 2.0: [source](https://stackoverflow.com/questions/58322147/how-to-generate-cnn-heatmaps-using-built-in-keras-in-tf2-0-tf-keras)
 
 
 **Example of Grad-CAM-output given below**
