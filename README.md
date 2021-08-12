@@ -1,6 +1,7 @@
 # Grad-CAM_demo
 Part of MSc project. Involves using Grad-CAM to visualize which regions of an image were important for classification
 
+**[CLICK HERE](https://j-l-m.github.io/Grad-CAM_demo/) to see the code and the output**
 
 A **jupyter notebook** displaying a use of **Grad-CAM** to highlight areas of an image that were important for a prediction.
 
