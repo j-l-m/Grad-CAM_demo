@@ -1,8 +1,8 @@
 # Grad-CAM_demo
 Part of MSc project. Involves using Grad-CAM to visualize which regions of an image were important for classification
-
+<br/><br/>
 **[CLICK HERE](https://j-l-m.github.io/Grad-CAM_demo/) to see the code and the output**
-
+<br/><br/>
 A **jupyter notebook** displaying a use of **Grad-CAM** to highlight areas of an image that were important for a prediction.
 
 This technique was used with VGG16 and MobileNet to help interpret the performance of the CNNs.It helps to show how the models were making predictions. CNNs may learn unexpected features from the images in the dataset e.g. areas of the background rather than the subject of the image.
